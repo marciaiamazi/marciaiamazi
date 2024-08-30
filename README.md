@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @marciaiamazi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h1 align="center">Oi 👋, Sou Márcia</h1>
+<h3 align="center">Analista de BI Pleno</h3>
 
-<!---
-marciaiamazi/marciaiamazi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🔭 Atualmente trabalho com análise e visualização de dados 
+
+- 🤝 Experiência **Power BI, Tableau, Qlik Sense**
+
+- e-mail **marcia.iamazi@hotmail.com**
+
+- Linkedin https://www.linkedin.com/in/marciaiamazi/
+
